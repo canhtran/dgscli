@@ -4,7 +4,7 @@ A command line tool created by Calvin and mostly use in his videos.
 ## Installation
 
 ```
-pip install 
+pip install -U git+https://github.com/canhtran/dgscli
 ```
 
 ## Generation
